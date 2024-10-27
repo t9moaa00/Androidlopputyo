@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Androidlopputyo</string>
+    <string name="get_fact_button">Get Cat Fact</string>
+    <string name="no_facts">No facts available</string>
+    <string name="fetch_failed">Failed to load fact</string>
+    <string name="main_screen_title">Cat Facts</string>
+    <string name="info_screen_title">Info</string>
+    <string name="initial_fact_text">Click to get a cat fact!</string>
+    <string name="loading_message">Loading...</string>
+    <string name="info_description">This app provides fun cat facts!</string>
+    <string name="back_to_main_button">Back to Main Screen</string>
+</resources>
